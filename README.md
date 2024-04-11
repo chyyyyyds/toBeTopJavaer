@@ -1,3 +1,11 @@
+<!--
+ * @Author: LinRenJie xoxosos666@gmail.com
+ * @Date: 2024-04-11 16:38:33
+ * @LastEditors: LinRenJie xoxosos666@gmail.com
+ * @LastEditTime: 2024-04-11 16:40:06
+ * @FilePath: \toBeTopJavaer\README.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 ## To Be Top Javaer  -  Java工程师成神之路
 
 ![](https://img.shields.io/badge/version-v2.0.0-green.svg) ![](https://img.shields.io/badge/author-Hollis-yellow.svg) ![](https://img.shields.io/badge/license-GPL-blue.svg)
@@ -26,11 +34,8 @@ Java成神之路全套面试题——围绕成神之路，500多道题，60多�
 
 ### 联系我们
 
-欢迎关注作者的公众号，可以直接后台留言。
-
+欢迎关注作者的公众号，可以直接后台留言
 ![](docs/contact/wechat-hollis.jpg)
-
-*公众号后台回复："成神导图"，即可获取《Java工程师成神之路最新版思维导图》* 
 
 
 ### 在线阅读地址
