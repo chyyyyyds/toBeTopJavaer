@@ -1,11 +1,3 @@
-<!--
- * @Author: LinRenJie xoxosos666@gmail.com
- * @Date: 2024-04-11 16:38:33
- * @LastEditors: LinRenJie xoxosos666@gmail.com
- * @LastEditTime: 2024-04-11 16:40:06
- * @FilePath: \toBeTopJavaer\README.md
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
--->
 ## To Be Top Javaer  -  Java工程师成神之路
 
 ![](https://img.shields.io/badge/version-v2.0.0-green.svg) ![](https://img.shields.io/badge/author-Hollis-yellow.svg) ![](https://img.shields.io/badge/license-GPL-blue.svg)
